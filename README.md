@@ -1,3 +1,6 @@
+This approach was inspired by [this post](https://medium.com/@jherreras/python-microlibs-5be9461ad979),
+which utilizes namespace packages to create separate, but logically linked, distributables.
+
 First, install the packages.
 
 ```bash
